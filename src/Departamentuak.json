@@ -1,0 +1,30 @@
+[
+    {
+        "departamentua": {
+            "kodea": "1",
+            "izena": "Lehengo Departamentua",
+            "kokapena": "Madrid"
+        }
+    },
+    {
+        "departamentua": {
+            "kodea": "2",
+            "izena": "Bigarren Departamentua",
+            "kokapena": "Barcelona"
+        }
+    },
+     {
+        "departamentua": {
+            "kodea": "3",
+            "izena": "Hirugarren Departamentua",
+            "kokapena": "Bilbo"
+        }
+    },
+    {
+        "departamentua": {
+            "kodea": "4",
+            "izena": "Laugarren Departamentua",
+            "kokapena": "Bilbo"
+        }
+    }
+]

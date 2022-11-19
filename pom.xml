@@ -1,0 +1,89 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>EthaziAitor</groupId>
+  <artifactId>EthaziAitor</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <build>
+    <sourceDirectory>src</sourceDirectory>
+    <plugins>
+      <plugin>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <version>3.7.0</version>
+        <configuration>
+          <source>1.8</source>
+          <target>1.8</target>
+        </configuration>
+      </plugin>
+    </plugins>
+  </build>
+  <dependencies>
+  <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
+  <!-- Hau da my sql connectorea jartzen duen etiquetak -->
+  
+  	<dependency>
+    		<groupId>mysql</groupId>
+    		<artifactId>mysql-connector-java</artifactId>
+    		<version>5.1.4</version>
+		</dependency>
+		  <!-- MariaDB -->
+		<dependency>
+    		<groupId>org.mariadb.jdbc</groupId>
+    		<artifactId>mariadb-java-client</artifactId>
+    		<version>2.5.1</version>
+		</dependency>
+		
+		<!-- JSON -->
+		<dependency>
+    		<groupId>org.json</groupId>
+    		<artifactId>json</artifactId>
+    		<version>20160810</version>
+		</dependency>
+		
+		<!-- JSON Simple -->
+  		<dependency>
+    		<groupId>com.googlecode.json-simple</groupId>
+    		<artifactId>json-simple</artifactId>
+    		<version>1.1.1</version>
+		</dependency>
+		<!-- JSON 3 -->
+		<dependency>
+    		<groupId>com.google.code.gson</groupId>
+   	 		<artifactId>gson</artifactId>
+    		<version>2.8.5</version>
+		</dependency>
+  		<!-- JSON 4 -->
+  				
+  		<dependency>
+    		<groupId>com.jayway.jsonpath</groupId>
+    		<artifactId>json-path</artifactId>
+    		<version>2.4.0</version>
+		</dependency>
+		
+		<!-- jasperreports Para Imprimir -->
+			
+		<dependency>
+    		<groupId>net.sf.jasperreports</groupId>
+    		<artifactId>jasperreports</artifactId>
+    		<version>6.0.0</version>
+		</dependency>
+		
+		
+		<!-- Logs (para controlar los errores) -->
+  <dependency>
+    	<groupId>log4j</groupId>
+   	 <artifactId>log4j</artifactId>
+   	 <version>1.2.17</version>
+   </dependency>
+   
+   
+   		<!-- https://itextpdf.com/en -->
+   		<dependency>
+    		<groupId>com.itextpdf</groupId>
+    		<artifactId>itextpdf</artifactId>
+   	 		<version>5.5.13.1</version>
+		</dependency>
+		
+
+  	
+  </dependencies>
+</project>

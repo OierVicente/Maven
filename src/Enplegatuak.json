@@ -1,0 +1,47 @@
+[
+    {
+        "enplegatu": {
+            "zenbaki": "30",
+            "izena": "Diego",
+            "abizenak": "Perez",
+            "soldata": "1212",
+            "alta": "2018-10-20",
+            "depKod": "1",
+            "arduraMota": "idazkariEnplegatua"
+            
+        }
+    },
+    {
+        "enplegatu": {
+           "zenbaki": "40",
+            "izena": "Julen",
+            "abizenak": "Gomez",
+            "soldata": "2432",
+            "alta": "2018-09-02",
+            "depKod": "1",
+            "arduraMota": "idazkariEnplegatua"
+        }
+    },
+    {
+        "enplegatu": {
+             "zenbaki": "50",
+            "izena": "Mario",
+            "abizenak": "Uri",
+            "soldata": "1190",
+            "alta": "2019-03-02",
+            "depKod": "1",
+            "arduraMota": "idazkariEnplegatua"
+        }
+    },
+    {
+        "enplegatu": {
+           "zenbaki": "51",
+            "izena": "No lo va a leer",
+            "abizenak": "",
+            "soldata": "0",
+            "alta": "",
+            "depKod": "0",
+            "arduraMota": ""
+        }
+    }
+]

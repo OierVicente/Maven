@@ -1,0 +1,16 @@
+nov 05, 2019 2:06:18 PM Diego.Bitacora main
+INFORMACIÓN: Bitacora inicializada
+nov 05, 2019 2:06:18 PM Diego.Bitacora main
+INFORMACIÓN: Llamadas a los componentes del sistema
+nov 05, 2019 2:06:18 PM Diego.Utilidades funcionDudosa
+GRAVE: ERROR MASIVO
+nov 05, 2019 2:06:18 PM Diego.Control controlar
+INFORMACIÓN: Proceso exitoso
+nov 05, 2019 2:06:18 PM Diego.InternalSys llamadaSistema
+ADVERTENCIA: Ocurrio un error de acceso en 0xFF
+nov 05, 2019 2:06:18 PM Diego.Bitacora main
+INFORMACIÓN: Probando manejo de excepciones
+nov 05, 2019 2:06:18 PM Diego.Bitacora main
+GRAVE: java.lang.Exception: ERROR DE CONTROL DE FLUJO DE PROGRAMA
+	at Diego.Bitacora.main(Bitacora.java:78)
+
