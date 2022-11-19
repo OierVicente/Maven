@@ -1,5 +1,7 @@
 # ProyectoMaven
 
+Aplicación de escritorio Desarrollada en Java
+
 Fecha real del Proyecto: Noviembre 2019
 Este proyecto fue realizado mientras cursaba en segundo de DAM
 
